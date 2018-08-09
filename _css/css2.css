@@ -1,0 +1,79 @@
+body{
+    	background-color: #F2EFFB;
+    }
+	.subtitulo{
+	font-size:12px;
+	padding-top:0px;
+	margin-top:0px;
+	}
+	#cabeçalho{
+	font-size: 60px;
+	padding:10px;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	margin-left: 20PX;
+	margin-right: 20px;
+	animation: 
+	}
+	#fundo {
+	background-color:#3CB442;
+	position: fixed;
+	border: 1px solid black;
+		}
+	#formatacaotabela{
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:0px;
+	}
+	#formatacaomenu{
+	padding-left:20px;
+	align:center;
+	padding-right:20px;
+	padding-top: 0px;
+	align:right;
+	padding-bottom: 0px;
+	}
+	a:link {
+	color:blue;
+	text-decoration:none;
+	}
+	a:hover {
+	color:blue;
+	text-decoration:underline;
+	}
+	a:visited {
+	color:white;
+	text-decoration:none;
+	font-family: "Microsoft Sans Serif";
+	}
+	a:active {
+	color:yellow;
+	}
+	.topico{
+		font-size: 40px;
+		text-align: left;
+		margin-top: 0px;
+		padding-top: 20px;
+	}
+	.subtopico{
+		font-size: 25px;
+	}
+	.texto{
+		font-size: 20px;
+		text-align: justify;
+	}
+	#corpodapagina{
+		background-color: #FAFAFA;
+		padding-top: 200px;
+	}
+	#logo{
+		color: white;
+		font-family: "Microsoft Sans Serif";
+	}
+	#tabelamenu{
+		margin-top: 0px;
+		border-top: 1px solid black;
+		border-left: 1px solid black;
+		border-right: 1px solid black;
+		border-bottom: 1px solid black;
+	}
